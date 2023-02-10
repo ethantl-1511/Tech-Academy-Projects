@@ -4,7 +4,7 @@
 # Projects
 <li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/Python-Projects/student-tracking-project"> Student-Tracking Program </li>
 <li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/Python-Projects/file-transfer-project"> File-Transfer Project </li>
-<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/Python-Projects/django-project> Django Projects </li>
+<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/Python-Projects/django-project"> Django Projects </li>
 
 <br>
 <h2>Student-Tracking Program</h2>

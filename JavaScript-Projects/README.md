@@ -3,9 +3,9 @@
 
 # Projects
 
-<li><a href="https://github.com/ethantl-1511/JavaScript-Projects/tree/main/TicTacToe"> Tic-Tac-Toe game </li>
-<li><a href="https://github.com/ethantl-1511/JavaScript-Projects/tree/main/Pizza_Project"> Pizza Menu </li>
-<li><a href="https://github.com/ethantl-1511/JavaScript-Projects/tree/main/Calculator"> Calculator </li>
+<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/JavaScript-Projects/TicTacToe"> Tic-Tac-Toe game </li>
+<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/JavaScript-Projects/Pizza_Project"> Pizza Menu </li>
+<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/JavaScript-Projects/Calculator"> Calculator </li>
 
 <br>
 <h2>Tic-Tac-Toe game</h2>

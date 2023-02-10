@@ -2,8 +2,8 @@
 This repository contains various projects from the C# and .NET course from The Tech Academy.
 
 # Projects
-<li><a href="https://github.com/ethantl-1511/C-Sharp-Projects/tree/main/01%20CarInsurance"> Car Insurance Application </li>
-<li><a href="https://github.com/ethantl-1511/C-Sharp-Projects/tree/main/02%20CodeFirstApplication"> Code First Application </li>
+<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/C-Sharp-Projects/01%20CarInsurance"> Car Insurance Application </li>
+<li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/tree/main/C-Sharp-Projects/02%20CodeFirstApplication"> Code First Application </li>
 
 <br>
 <h2>Car Insurance Application</h2>

@@ -1,6 +1,6 @@
 # Tech Academy Projects
  
-This repository features all of the projects and programs created during my time at the Tech Academy's Software Developer boot camp.
+This repository features all of the projects and programs created during my time at The Tech Academy's Software Developer boot camp.
 
 # Sections
 <li><a href="https://github.com/ethantl-1511/Tech-Academy-Projects/blob/main/HTML-and-CSS-Projects/"> HTML and CSS Projects </li>

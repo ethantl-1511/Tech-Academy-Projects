@@ -1,5 +1,5 @@
 # JavaScript Projects
-<p>This repository contains Javascript focused projects.</p>
+<p>This repository contains Javascript focused projects from The Tech Academy.</p>
 
 # Projects
 

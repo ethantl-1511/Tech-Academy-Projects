@@ -1,4 +1,4 @@
-# HTML-and-CSS-Projects
+# HTML and CSS Projects
 <p>This repository will contain work related to HTML and CSS projects learned from The Tech Academy.</p>
 
 # Projects

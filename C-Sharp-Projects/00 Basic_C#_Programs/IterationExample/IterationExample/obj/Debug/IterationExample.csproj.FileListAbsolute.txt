@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\IterationExample.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\IterationExample.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\bin\Debug\IterationExample.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\IterationExample.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\IterationExample.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\IterationExample.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\IterationExample\IterationExample\obj\Debug\IterationExample.pdb

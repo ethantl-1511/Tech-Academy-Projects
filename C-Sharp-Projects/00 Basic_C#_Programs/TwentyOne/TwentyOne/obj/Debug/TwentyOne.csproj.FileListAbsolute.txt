@@ -1,0 +1,17 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\01 Blackjack Game\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

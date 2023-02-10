@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb

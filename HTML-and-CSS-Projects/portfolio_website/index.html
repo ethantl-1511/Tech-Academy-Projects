@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Ethan LaRocca</title>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+	</head>
+	<body class="background">
+
+        <!--Navbar-->
+        <div class="navbar">
+            <a class="active" href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#links">Links</a>
+            <a href="#contact">Contact</a>
+
+        </div>
+
+        <br>
+        <br>
+
+        <!--Home section-->
+        <div id="home">
+            <video autoplay muted loop id="home-video">
+                <source src="_assets/videos/video-electronic.mp4" type="video/mp4">
+                Your browser could not load this video or does not support HTML5.
+            </video>
+
+        </div>
+
+        <!--Video text-->
+        <div class="video_text">
+            <h1 class="white-text">Ethan LaRocca's Portfolio</h1>
+            <strong>
+                <p class="center">Thank you for visiting!</p>
+            </strong>
+        </div>
+
+        <!--About-->
+        <div class="Row" id="About">
+            <!--LEFT-side column-->
+            <div class="column_2">
+                <h1 style="">About</h1>
+                <p>
+                    I am a software developer who enjoys the fun challenge of a programming puzzle!
+                    <br><br>
+                    I am a trained full-stack developer, experienced in HTML, CSS, JavaScript, SQL, Python, C# and more!
+                    <br><br>
+                    <a href="#contact">Contact me</a> below! I can't wait to work with you.
+                </p>
+            </div>
+            <!--RIGHT-side column-->
+            <div class="column_1">
+                <img src="_assets/images/image1.png" alt="">
+            </div>
+        </div>
+
+        <!--Links Section / Github, LinkinIn, etc. -->
+        <div class="row" id="links">
+            <!--LEFT-side column-->
+            <div class="column_1">
+                <img src="_assets/images/image2.png" alt="image2.png">
+            </div>
+            <!--RIGHT-side column-->
+            <div class="column_2">
+                <h1>Sites</h1>
+                <p class="center">
+                    <a href="https://github.com/ethantl-1511/"><img class="icon" src="_assets/images/GitHub-1.png" alt="GitHub"></a>
+                    <br>
+                    <a href="https://www.linkedin.com/in/ethan-larocca/"><img class="icon" src="_assets/images/linkedin.png" alt="LinkedIn"></a>
+                <p>
+            </div>
+        </div>
+
+        <!--Contact-->
+        <div class="row" id="contact">
+            <!--Contact form, left column-->
+            <div class="column_2 column_tall">
+                <h1>Contact</h1>
+                <!--This specifies where and how to send the form data-->
+                <form action="https://formspree.io/f/mnqrglob" method="POST">
+                    <label>Name:</label>
+                        <input type="text" placeholder="Enter your name here.">
+                    <label>Email:</label>
+                        <input type="text" placeholder="Enter your email here.">
+                    <label>Message:</label>
+                        <input type="text" placeholder="Enter a short message here.">
+                        <input type="submit" value="SUBMIT">
+                </form>
+            </div>
+            <!--Contact image, right column-->
+            <div class="column_1 column_tall">
+                <img src="_assets/images/contact.png" alt="contact.png">
+            </div>
+        </div>
+
+        <!--Footer-->
+        <footer>
+            <p>
+                <p class="center">&copy; Ethan LaRocca</p>
+            </p>
+        </footer>
+
+	</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\bin\Debug\PriceQuote.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\bin\Debug\PriceQuote.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\bin\Debug\PriceQuote.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\obj\Debug\PriceQuote.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\obj\Debug\PriceQuote.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\obj\Debug\PriceQuote.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\PriceQuote\PriceQuote\obj\Debug\PriceQuote.pdb

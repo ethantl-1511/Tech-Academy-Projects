@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\bin\Debug\MathCompare.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\bin\Debug\MathCompare.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\bin\Debug\MathCompare.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\obj\Debug\MathCompare.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\obj\Debug\MathCompare.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\obj\Debug\MathCompare.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\MathCompare\MathCompare\obj\Debug\MathCompare.csproj.AssemblyReference.cache

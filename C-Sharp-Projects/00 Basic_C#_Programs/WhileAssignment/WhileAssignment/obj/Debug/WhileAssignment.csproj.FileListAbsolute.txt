@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\bin\Debug\WhileAssignment.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\bin\Debug\WhileAssignment.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\bin\Debug\WhileAssignment.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\obj\Debug\WhileAssignment.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\obj\Debug\WhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\obj\Debug\WhileAssignment.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\WhileAssignment\WhileAssignment\obj\Debug\WhileAssignment.pdb

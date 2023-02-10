@@ -1,0 +1,148 @@
+/***
+  Styling for fade-out
+***/
+html {
+  background-color: rgb(255, 255, 255);
+  scroll-behavior: smooth; /* Smooth scrolling effect */
+}
+
+body {
+  opacity: 1;
+  transition: 5s opacity;
+}
+
+body.fade-out {
+  opacity: 0;
+  transition: none;
+}
+
+/***
+  Styling for Popup Form
+***/
+/* Button used to open form*/
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+  top: 23px;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+  animation: moveLeft 5s infinite;
+}
+
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.open-button-2 {
+  background-color: green;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The form itself, hidden */
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Style for form container*/
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* Input gets focus */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Style for submit button */
+.form-container .button {
+  background-color: #04aa6d;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+/* Red background to cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Hover effect on buttons */
+.form-container .button:hover, .open-button:hover {
+  opacity: 1;
+}
+
+/* Animation for Form */
+@keyframes moveLeft {
+    0% {left: 0px;}
+    50% {left: 200px;}
+    100% {left: 0px;}
+}
+
+/* "Animation" for image zoom-in / zoom-out */
+@keyframes zooming {
+  0% {transform: scale(0.5,0.5);}
+  50% {transform: scale(0.75,0.75);}
+  100% {transform: scale(0.5,0.5);}
+}
+
+.zoom {
+  animation: zooming 15s forwards;
+}
+
+/***
+  Automatic slide-show stylings
+***/
+#slideshow {
+  margin: 50px auto;
+  position: relative;
+  width: 256px;
+  height: 256px;
+  padding: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+#slideshow > div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+}

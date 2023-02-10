@@ -1,0 +1,273 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>The Spider-Man Fan-Club</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="./css/one_page_website.css">
+		<script src="./js/one_page_website.js" defer></script>
+	</head>
+	<body>
+
+		<!-- NAV -->
+		<div class="navigation">
+			<div>
+				<nav>
+					<a href="#home" id="link">HOME</a> |
+					<a href="#gallery" id="link">GALLERY</a> |
+					<a href="#videos" id="link">VIDEOS</a> |
+					<a href="#contact" id="link">NEWSLETTER</a>
+				</nav>
+			</div>
+		</div>
+		<!-- END NAV -->
+		
+		<!-- HOME -->
+		<div id="home">
+			<div>
+				<div>
+					<span>The Spider-Man Fan-Club</span>
+				</div>
+			</div>
+		</div>
+		<!--END HOME-->
+
+		<!--Lightbox Gallery-->
+		<!--Images used to open the lightbox-->
+		<div class="row">
+			<div class="column">
+			<img src="./images/thumb/lightbox1-sm.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
+			</div>
+			<div class="column">
+			<img src="./images/thumb/lightbox2-sm.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
+			</div>
+			<div class="column">
+			<img src="./images/thumb/lightbox3-sm.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
+			</div>
+			<div class="column">
+			<img src="./images/thumb/lightbox4-sm.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
+			</div>
+		</div>
+		
+		<!--The Modal/Lightbox-->
+		<div id="myModal" class="modal">
+			<span class="close cursor" onclick="closeModal()">&times;</span>
+			<div class="modal-content">
+		
+			<div class="mySlides">
+				<div class="numbertext">1 / 4</div>
+				<img src="./images/thumb/lightbox1.jpg" style="width:100%">
+			</div>
+		
+			<div class="mySlides">
+				<div class="numbertext">2 / 4</div>
+				<img src="./images/thumb/lightbox2.jpg" style="width:100%">
+			</div>
+		
+			<div class="mySlides">
+				<div class="numbertext">3 / 4</div>
+				<img src="./images/thumb/lightbox3.jpg" style="width:100%">
+			</div>
+		
+			<div class="mySlides">
+				<div class="numbertext">4 / 4</div>
+				<img src="./images/thumb/lightbox4.jpg" style="width:100%">
+			</div>
+		
+			<!--Next/previous controls-->
+			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+			<a class="next" onclick="plusSlides(1)">&#10095;</a>
+		
+			<!--Caption text-->
+			<div class="caption-container">
+				<p id="caption"></p>
+			</div>
+		
+			<!--Thumbnail image controls-->
+			<div class="column">
+				<img class="demo" src="./images/thumb/lightbox1-sm.jpg" onclick="currentSlide(1)" alt="Web-slinger!">
+			</div>
+		
+			<div class="column">
+				<img class="demo" src="./images/thumb/lightbox2-sm.jpg" onclick="currentSlide(2)" alt="Check inside his eyes!">
+			</div>
+		
+			<div class="column">
+				<img class="demo" src="./images/thumb/lightbox3-sm.jpg" onclick="currentSlide(3)" alt="Good Vs. Evil">
+			</div>
+		
+			<div class="column">
+				<img class="demo" src="./images/thumb/lightbox4-sm.jpg" onclick="currentSlide(4)" alt="Pretty neon!">
+			</div>
+			</div>
+		</div> 
+
+		<!--GALLERY-->
+		<section>
+			<div id="gallery">
+				<h1>Gallery</h1>
+				<div>
+				
+					<!--PHOTO CONTAINER 1-->
+					<div>
+						<div>
+							<img src="./images/thumb/thumb_1.jpg" alt="spider-man 1" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>Amazing selfie of the Amazing Spider-Man!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 1-->
+					<!--PHOTO CONTAINER 2-->
+					<div>
+						<div>
+							<img src="./images/thumb/thumb_2.jpg" alt="spider-man 2" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>Look at this new mask design of Spider-Man!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 2-->
+					<!--PHOTO CONTAINER 3-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_3.jpg" alt="spider-man 3" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>This camera shot of Spider-Man is amazing!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 3-->
+					<!--PHOTO CONTAINER 4-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_4.jpg" alt="spider-man 4" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>A very nice shot of Spider-Man!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 4-->
+					<!--PHOTO CONTAINER 5-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_5.jpg" alt="spider-man 5 | comic" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>Very nice artwork of the Amazing Spider-Man!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 5-->
+					<!--PHOTO CONTAINER 6-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_6.jpg" alt="spider-man 6 | real" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>Could one of these guys be the real Spider-Man?!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 6-->
+					<!--PHOTO CONTAINER 7-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_7.jpg" alt="spider-man 7 | more real" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>Are all of these fellows Spider-Man? Is Spider-Man multiple people?!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 7-->
+					<!--PHOTO CONTAINER 8-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_8.jpg" alt="spider-man 8 | comic" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>Excellent artwork of Spider-Man!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 8-->
+					<!--PHOTO CONTAINER 9-->
+					<div>
+						<div>
+						<img src="./images/thumb/thumb_9.jpg" alt="spider-man 9 | multi-verse" width="300" height="200">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p>There are even more Spider-People!!</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO CONTAINER 9-->
+				</div>
+			</div>
+		</section>
+		<!--END GALLERY-->
+		
+		<!--VIDEOS-->
+		<section>
+			<div id="videos">
+				<h1>Videos</h1>
+				<div>
+				
+					<!--VIDEO CONTAINER 1-->
+					<div>
+						<div>
+							<iframe width="640" height="360" src="https://www.youtube.com/embed/guuYU74wU70" title="With Great Power Comes Great Responsibility Scene - Spider-Man (2002) Movie CLIP HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+					<!--END VIDEO CONTAINER 1-->
+					
+				</div>
+			</div>
+		</section>
+		<!--END VIDEOS-->
+		
+		<!--CONTACT-->
+		<section>
+			<div id="contact">
+				<div class="newsletter">
+					<h1>Newsletter</h1>
+					<div>
+						<h2>Want to learn more about the Amazing Spider-Man?
+							<br />Keep up-to-date with our newsletter!
+						</h2>
+						<p>
+							Please provide us with your basic contact information.
+						</p>
+						<div>
+							<form action="" method="post">
+								<input class="rsvp" type="text" value="" placeholder="First Name"><br>
+								<input class="rsvp" type="text" value="" placeholder="Last Name"><br>
+								<input class="rsvp" type="text" value="" placeholder="Email Address"><br>
+								<input class="rsvp" type="text" value="" placeholder="Phone Number">
+								<div class="form-spacer">
+									<label class="terms"><em>Terms and Conditions</em></label>
+								</div>
+								<div>
+									<input type="submit" value="Submit">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--END CONTACT-->
+		
+		<!--FOOTER-->
+		<div>
+			<footer>
+				www.spider-man.web&nbsp;|&nbsp;&copy; 2022
+			</footer>
+		</div>
+		<!--END FOOTER-->
+	</body>
+</html>

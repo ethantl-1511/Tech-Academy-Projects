@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>React Challenges</title>
+		<meta charset="utf-8">
+		<!--<script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+        <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>-->
+		<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+		<script src="./js/react_4.js"></script>
+		<link rel="stylesheet" type="text/css" href="./react_4.css">
+	</head>
+	<body>
+		<!--fade-out challenge-->
+		<script>
+			document.body.classList.add('fade-out');
+
+			window.addEventListener('DOMContentLoaded', () => {
+				document.body.classList.remove('fade-out');
+			});
+		</script>
+		
+		<!--bookmark challenge-->
+		<div class="container" id="bookmarkChallenge"></div>
+			<a href="#bookmarkChallenge">Bookmark</a> |
+			<a href="#vwChallenge">VW</a> |
+			<a href="#formChallenge">Popup</a> |
+			<a href="#zoomChallenge">Zoom</a> |
+			<a href="#slideshowChallenge">Slideshow</a>
+		</div>
+		<!--vw challenge-->
+		<div class=container id="vwChallenge">
+			<h1 style="font-size:8vw;">Header 1 Text with 8vw</h1>
+			<p style="font-size:2vw">Paragraph Text with 2vw</p>
+		</div>
+
+		<!--Sticky contact challenge-->
+		<div class="container">
+			<div class="sticky">
+				<button class="open-button-2" onclick="openForm()">Open Form</button>
+			</div>
+		</div>
+
+		<!--form challenge-->
+		<div class=container id="formChallenge">
+			<form action="" name="formExample" onsubmit="return validateForm()" method="post">
+				<label for="fname">First name:</label><br>
+				<input type="text" id="first" name="first" placeholder="First Name.."><br>
+				<label for="lname">Last name:</label><br>
+				<input type="text" id="last" name="last" placeholder="Last Name.."><br>
+				<label for="lname">Phone Number:</label><br>
+				<input type="text" id="phone" name="phone" placeholder="000-000-000"><br><br>
+				<input type="submit" value="Submit">
+			</form> 
+		</div>
+
+		<!--popup form challenge-->
+		<div class="container" id="popupChallenge">
+		<button class="open-button" onclick="openForm()">Open Form</button>
+			<div class="form-popup" id="popupForm">
+				<form action="" class="form-container">
+					<h1>Login</h1>
+
+					<label for="email"><b>Email<b></label>
+					<input type="text" placeholder="Enter Email" name="email" required>
+					
+					<label for="password"><b>Password</b></label>
+					<input type="text" placeholder="Enter Password" name="password" required>
+					
+					<button type="submit" class="button">Login</button>
+					<button type="button" class="button cancel" onclick="closeForm()">Close</button>
+				</form>
+			</div>
+		</div>
+
+		<!--zoomin/out challenge-->
+		<div class="container" id="zoomChallenge">
+			<img class="zoom" src="./img/image.jpg" alt="image">
+		</div>
+
+		<!--Automatic slide-show challenge-->
+		<div class="container" id="slideshowChallenge">
+			<div id="slideshow">
+				<div>
+					<img src="./img/galaxy1.jpg" alt="">
+				</div>
+				<div>
+					<img src="./img/galaxy2.jpg" alt="">
+				</div>
+				<div>
+					<img src="./img/galaxy3.jpg" alt="">
+				</div>
+				<div>
+					<img src="./img/galaxy4.jpg" alt="">
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

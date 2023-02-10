@@ -1,0 +1,44 @@
+/***
+    General Stylings
+***/
+html {
+    font-family: "Avenir Next", Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+input {
+    padding-top: 30px;
+    width: 500px;
+    height: 60px;
+    font-size: 40px;
+    border: 0;
+}
+    input:focus {
+        outline: none;
+    }
+
+li {
+    text-align: left;
+    font-size: 40px;
+    list-style-type: none;
+    margin: 0;
+}
+
+footer {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    bottom: 8px;
+    width: 100%;
+    margin: 0
+}
+
+/* Remove padding between items in array after one is deleted */
+.remove {
+    padding-bottom: 5px;
+}

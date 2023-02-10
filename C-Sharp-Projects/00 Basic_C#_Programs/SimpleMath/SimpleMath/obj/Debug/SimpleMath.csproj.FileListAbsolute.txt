@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\bin\Debug\SimpleMath.exe.config
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\bin\Debug\SimpleMath.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\bin\Debug\SimpleMath.pdb
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\obj\Debug\SimpleMath.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\obj\Debug\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\obj\Debug\SimpleMath.exe
+C:\Users\Ethan\Documents\GitHub\C-Sharp-Projects\00 Basic_C#_Programs\SimpleMath\SimpleMath\obj\Debug\SimpleMath.pdb
